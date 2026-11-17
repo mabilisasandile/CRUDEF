@@ -1,0 +1,5 @@
+Exception: ReferenceError: Swal is not defined
+Callstack: [1] <anonymous> [localhost:7057/Students:218:17]
+[2] table#myTable.table.table-striped.table-bordered.nowrap.dataTable.dispatch [localhost:7057/lib/jquery/dist/jquery.min.js:40035-40075]
+[3] v.handle [localhost:7057/lib/jquery/dist/jquery.min.js:38006-38045]
+Locals: deleteForm, deleteIdInput, e, studentId, this, Global
